@@ -1,0 +1,7 @@
+.idea
+venv*
+*.log
+__pycache__
+index.html
+data.csv
+data.json
